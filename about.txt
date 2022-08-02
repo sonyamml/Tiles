@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Edu VIC WA NT Beginner
+- Font Author: Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)
+- Font Source: http://fonts.gstatic.com/s/eduvicwantbeginner/v1/jiz2RF1BuW9OwcnNPxLl4KfZCHd9nFtd5Tu7stCpElYpvPfZZ-OXlPmFXwnpkeGR.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
